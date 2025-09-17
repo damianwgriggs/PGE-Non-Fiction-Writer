@@ -6,7 +6,7 @@
 
 The PGE-Writer is a sophisticated, multi-step AI authoring system designed to generate coherent, high-quality, long-form non-fiction text. [cite_start]It solves the critical challenges of consistency, accuracy, and logical flow that plague standard single-prompt generation methods[cite: 4].
 
-[cite_start]This system is a practical implementation of the **Perceptual Grid Engine (PGE)**, an original AI architecture designed by Damian Griggs and Jaden Hermann[cite: 2]. By leveraging a structured, iterative process, the PGE-Writer enables even small, local language models to produce manuscripts with a level of quality that rivals massive, cloud-based systems.
+[cite_start]This system is a practical implementation of the **Perceptual Grid Engine (PGE)**, an original AI architecture designed by Damian Griggs[cite: 2]. By leveraging a structured, iterative process, the PGE-Writer enables even small, local language models to produce manuscripts with a level of quality that rivals massive, cloud-based systems.
 
 ## The Core Concept: The Perceptual Grid Engine (PGE)
 
